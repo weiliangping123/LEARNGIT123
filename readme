@@ -7,3 +7,5 @@ create a new branch is simple $ quickgit
 ceshi-master
 ceshi-dev11
 ceshi-bug
+ceshi--bug
+ceshi---bug
